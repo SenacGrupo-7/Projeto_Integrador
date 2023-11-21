@@ -26,6 +26,26 @@ Modelo lógico por associação:
 
 ![i3](mer-logico.jpg)
 
+# Prototipação:
+
+TELA DE LOGIN
+
+![i3](images/tela-login.jpg)
+
+TELA CADASTRAR ALUNO
+
+![i4](images/cadastrar-aluno.jpg)
+
+TELA CADASTRAR PROFESSOR
+
+![i5](images/cadastrar-professor.jpg)
+
+TELA CADASTRAR FORNECEDOR
+
+![i6](images/cadastro-fornecedor.jpg)
+
 # Conclusão:
 
+# Melhorias Futuras:
 
+* Desenvolver a conexão do BackEnd junto ao banco de dados
