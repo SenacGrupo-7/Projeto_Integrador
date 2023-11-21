@@ -28,23 +28,27 @@ Modelo lógico por associação:
 
 # Prototipação:
 
-TELA DE LOGIN
+## TELA DE LOGIN
 
 ![i3](images/tela-login.jpg)
 
-TELA CADASTRAR ALUNO
+## TELA CADASTRAR ALUNO
 
 ![i4](images/cadastrar-aluno.jpg)
 
-TELA CADASTRAR PROFESSOR
+## TELA CADASTRAR PROFESSOR
 
 ![i5](images/cadastrar-professor.jpg)
 
-TELA CADASTRAR FORNECEDOR
+## TELA CADASTRAR FORNECEDOR
 
 ![i6](images/cadastro-fornecedor.jpg)
 
 # Conclusão:
+
+Em conclusão, a implementação deste sistema baseado na web representa não apenas a realização de um projeto, mas a concretização de uma visão voltada para a inovação. Ao longo deste processo, alcançamos não apenas os objetivos iniciais, mas também criamos um ambiente online e centrado no usuário.
+
+Este projeto não é apenas um marco, mas um ponto de partida para futuras evoluções e aprimoramentos, à medida que continuamos a atender às necessidades dinâmicas do cenário digital em constante mudança.
 
 # Melhorias Futuras:
 
