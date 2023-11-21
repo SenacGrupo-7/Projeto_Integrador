@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+nav {
+  background-color:#FFB800;
+  height: 150px;
+}
+nav i {
+  color: black;
+  margin-right: 30px;
+  font-size: 30px;
+}
+
+/* Loggin e Cadastro */
+.title-login {
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.input-login {
+    margin-top: 8px;
+}
+
+.form-group {
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.418);
+    padding: 100px;
+    margin-top: 0%;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+}
+
+ul li {
+  list-style: none;
+}
+
